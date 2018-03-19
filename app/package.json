@@ -1,0 +1,12 @@
+{
+  "name": "react-typescript-electron",
+  "version": "0.1.0",
+  "productName": "hexo-admin",
+  "description": "react-typescript-electron",
+  "main": "main.js",
+  "dependencies": {
+    "electron-config": "^1.0.0",
+    "electron-is": "^2.4.0",
+    "electron-log": "^2.2.14"
+  }
+}
